@@ -1,0 +1,6 @@
+O Link do banco de dados que realizei com a Imersão.
+
+Link: https://github.com/JaquelineSF/DadosAlura/blob/aula2/AulaCompleta__ImerssaoDados_Alura.ipynb
+
+Conheci o Google Colab e Python Pandas, e com uma base de dados, obtive o valor do m2 dos Bairros de São Paulo e consegui importar e manipular dados utilizando a Bliblioteca Geopandas, conseguindo comparar dados do IBGE, CENSO, Dados de Geolocalização, CEPS, Conceitos geometria computacional e muito mais.
+Finalizando com Machine Learning, entendendo problemas de regressão, classificação e como treinar um modelo de Machine Lerning usando o Sci-Kit Learning.
